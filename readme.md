@@ -1,1 +1,1 @@
-![alt text](hesapmakinesi.PNG)
+![alt text](images/hesapmakinesi.PNG)
